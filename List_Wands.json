@@ -1,3 +1,15 @@
 {
-    "wands": []
+  "wands": [
+    {
+      "shuffle": "Yes",
+      "spellCast": "1",
+      "castDelay": "",
+      "rechargeTime": "",
+      "manaMax": "",
+      "manaChargeSpeed": "",
+      "capacity": "",
+      "spread": "",
+      "spells": []
+    }
+  ]
 }
