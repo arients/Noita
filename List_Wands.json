@@ -69,6 +69,19 @@
         "46",
         "46"
       ]
+    },
+    {
+      "id": "1718660145600",
+      "photo": "Purple.webp",
+      "shuffle": "Yes",
+      "spellCast": "",
+      "castDelay": "",
+      "rechargeTime": "",
+      "manaMax": "",
+      "manaChargeSpeed": "",
+      "capacity": "",
+      "spread": "",
+      "spells": []
     }
   ]
 }
