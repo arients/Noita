@@ -95,6 +95,17 @@
       "capacity": "",
       "spread": "",
       "spells": []
+    },
+    {
+      "shuffle": "Yes",
+      "spellCast": "1231",
+      "castDelay": "",
+      "rechargeTime": "",
+      "manaMax": "",
+      "manaChargeSpeed": "",
+      "capacity": "",
+      "spread": "",
+      "spells": []
     }
   ]
 }
