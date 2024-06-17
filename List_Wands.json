@@ -1,4 +1,18 @@
 {
   "wands": [
+    {
+      "id": "1718633393723",
+      "shuffle": "Yes",
+      "spellCast": "1",
+      "castDelay": "2",
+      "rechargeTime": "3",
+      "manaMax": "4",
+      "manaChargeSpeed": "5",
+      "capacity": "1",
+      "spread": "6",
+      "spells": [
+        "1"
+      ]
+    }
   ]
 }
