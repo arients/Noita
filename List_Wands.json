@@ -117,6 +117,18 @@
       "capacity": "",
       "spread": "",
       "spells": []
+    },
+    {
+      "id": "1718630430763",
+      "shuffle": "Yes",
+      "spellCast": "1",
+      "castDelay": "",
+      "rechargeTime": "",
+      "manaMax": "",
+      "manaChargeSpeed": "",
+      "capacity": "",
+      "spread": "",
+      "spells": []
     }
   ]
 }
