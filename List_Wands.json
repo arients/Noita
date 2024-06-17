@@ -23,6 +23,24 @@
       "spells": [
         null
       ]
+    },
+    {
+      "shuffle": "Yes",
+      "spellCast": "1",
+      "castDelay": "2",
+      "rechargeTime": "3",
+      "manaMax": "4",
+      "manaChargeSpeed": "5",
+      "capacity": "6",
+      "spread": "7",
+      "spells": [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+      ]
     }
   ]
 }
