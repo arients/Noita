@@ -19,6 +19,22 @@
         null,
         null
       ]
+    },
+    {
+      "id": "1718634580351",
+      "photo": "Red.webp",
+      "shuffle": "Yes",
+      "spellCast": "1",
+      "castDelay": "2",
+      "rechargeTime": "2",
+      "manaMax": "1",
+      "manaChargeSpeed": "2",
+      "capacity": "2",
+      "spread": "3",
+      "spells": [
+        "1",
+        "1"
+      ]
     }
   ]
 }
