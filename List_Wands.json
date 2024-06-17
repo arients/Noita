@@ -10,6 +10,19 @@
       "capacity": "",
       "spread": "",
       "spells": []
+    },
+    {
+      "shuffle": "Yes",
+      "spellCast": "2",
+      "castDelay": "3",
+      "rechargeTime": "6",
+      "manaMax": "5",
+      "manaChargeSpeed": "4",
+      "capacity": "1",
+      "spread": "3",
+      "spells": [
+        null
+      ]
     }
   ]
 }
