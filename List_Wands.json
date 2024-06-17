@@ -13,6 +13,21 @@
       "spells": [
         "1"
       ]
+    },
+    {
+      "id": "1718634002045",
+      "shuffle": "Yes",
+      "spellCast": "",
+      "castDelay": "",
+      "rechargeTime": "",
+      "manaMax": "",
+      "manaChargeSpeed": "",
+      "capacity": "2",
+      "spread": "",
+      "spells": [
+        "1",
+        null
+      ]
     }
   ]
 }
