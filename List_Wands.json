@@ -35,6 +35,23 @@
         "1",
         "1"
       ]
+    },
+    {
+      "id": "1718640233343",
+      "photo": "Purple.webp",
+      "shuffle": "No",
+      "spellCast": "1",
+      "castDelay": "0.3",
+      "rechargeTime": "0.4",
+      "manaMax": "1320",
+      "manaChargeSpeed": "320",
+      "capacity": "3",
+      "spread": "0",
+      "spells": [
+        "11",
+        null,
+        "22"
+      ]
     }
   ]
 }
