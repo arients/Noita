@@ -20,6 +20,31 @@
         "235",
         "228"
       ]
+    },
+    {
+      "id": "1718659398735",
+      "photo": "Purple.webp",
+      "shuffle": "No",
+      "spellCast": "1",
+      "castDelay": "0.27",
+      "rechargeTime": "0.67",
+      "manaMax": "960",
+      "manaChargeSpeed": "390",
+      "capacity": "11",
+      "spread": "0",
+      "spells": [
+        "211",
+        "174",
+        "96",
+        "221",
+        "22",
+        "68",
+        "48",
+        "106",
+        "48",
+        "46",
+        "46"
+      ]
     }
   ]
 }
