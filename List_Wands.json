@@ -141,6 +141,26 @@
         "59",
         "59"
       ]
+    },
+    {
+      "id": "1718799154014",
+      "photo": "Red.webp",
+      "shuffle": "No",
+      "spellCast": "1",
+      "castDelay": "0.08",
+      "rechargeTime": "0.2",
+      "manaMax": "760",
+      "manaChargeSpeed": "253",
+      "capacity": "6",
+      "spread": "0",
+      "spells": [
+        "221",
+        "221",
+        "288",
+        "240",
+        "204",
+        "352"
+      ]
     }
   ]
 }
