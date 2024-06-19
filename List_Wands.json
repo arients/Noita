@@ -69,6 +69,28 @@
         "46",
         "46"
       ]
+    },
+    {
+      "id": "1718784257493",
+      "photo": "Yellow.webp",
+      "shuffle": "No",
+      "spellCast": "1",
+      "castDelay": "0.28",
+      "rechargeTime": "0.53",
+      "manaMax": "547",
+      "manaChargeSpeed": "320",
+      "capacity": "8",
+      "spread": "0",
+      "spells": [
+        "221",
+        "59",
+        "288",
+        "324",
+        "324",
+        "96",
+        "54",
+        "319"
+      ]
     }
   ]
 }
