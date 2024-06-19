@@ -116,6 +116,31 @@
         "209",
         "299"
       ]
+    },
+    {
+      "id": "1718786453393",
+      "photo": "Yellow.webp",
+      "shuffle": "No",
+      "spellCast": "1",
+      "castDelay": "0.17",
+      "rechargeTime": "0.65",
+      "manaMax": "240",
+      "manaChargeSpeed": "47",
+      "capacity": "11",
+      "spread": "-23",
+      "spells": [
+        "221",
+        null,
+        "85",
+        "30",
+        "54",
+        "48",
+        "48",
+        null,
+        "59",
+        "59",
+        "59"
+      ]
     }
   ]
 }
