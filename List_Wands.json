@@ -79,10 +79,11 @@
       "rechargeTime": "0.53",
       "manaMax": "547",
       "manaChargeSpeed": "320",
-      "capacity": "8",
+      "capacity": "9",
       "spread": "0",
       "spells": [
         "221",
+        null,
         "59",
         "288",
         "324",
