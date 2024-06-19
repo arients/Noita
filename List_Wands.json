@@ -161,6 +161,32 @@
         "204",
         "352"
       ]
+    },
+    {
+      "id": "1718803027004",
+      "photo": "Purple.webp",
+      "shuffle": "No",
+      "spellCast": "1",
+      "castDelay": "0.6",
+      "rechargeTime": "0.3",
+      "manaMax": "1000",
+      "manaChargeSpeed": "100",
+      "capacity": "12",
+      "spread": "0",
+      "spells": [
+        "216",
+        "335",
+        "54",
+        "30",
+        "272",
+        "377",
+        "315",
+        "54",
+        "272",
+        "360",
+        "177",
+        "167"
+      ]
     }
   ]
 }
