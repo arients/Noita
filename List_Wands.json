@@ -187,6 +187,31 @@
         "177",
         "167"
       ]
+    },
+    {
+      "id": "1719071508656",
+      "photo": "Red.webp",
+      "shuffle": "No",
+      "spellCast": "1",
+      "castDelay": "0.1",
+      "rechargeTime": "0.22",
+      "manaMax": "480",
+      "manaChargeSpeed": "156",
+      "capacity": "11",
+      "spread": "0",
+      "spells": [
+        "51",
+        "172",
+        "148",
+        "119",
+        "134",
+        "171",
+        "308",
+        "236",
+        "236",
+        "236",
+        "236"
+      ]
     }
   ]
 }
